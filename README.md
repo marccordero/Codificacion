@@ -8,7 +8,7 @@ Las variables categóricas son aquellas que representan una categoría o clase, 
 
 ## Contenido
 
-El notebook proporciona una explicación detallada y ejemplos de los siguientes métodos de codificación:
+El notebook contiene un ejercicio para trabajar los siguientes tipos de codificación:
 
 1. One-Hot Encoding
 2. Integer Encoding
@@ -16,6 +16,5 @@ El notebook proporciona una explicación detallada y ejemplos de los siguientes 
 4. Frequency Encoding
 5. Label Encoding
 
-Cada sección del notebook presenta una descripción de la técnica de codificación, seguida de ejemplos prácticos utilizando bibliotecas populares como pandas y scikit-learn en Python.
 
 
